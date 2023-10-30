@@ -1,0 +1,3 @@
+/home/nathan_nino/Documents/projects/mewhenilearnc/cmake-build-debug/CMakeFiles/mewhenilearnc.dir
+/home/nathan_nino/Documents/projects/mewhenilearnc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nathan_nino/Documents/projects/mewhenilearnc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
